@@ -9,9 +9,7 @@ Installation:
     2. Install environment with conda
 
     conda env create -f environment.yml
-    
-    make sure to select the created environment
-
+    conda activate environment
 
     3. Run 
 
