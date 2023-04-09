@@ -1,4 +1,5 @@
 Installation:
+
     1. Clone Project
 
     git clone git@github.com:Fluli/bayesianNetwork.git
@@ -8,7 +9,8 @@ Installation:
     2. Install environment with conda
 
     conda env create -f environment.yml
-
+    
+    make sure to select the created environment
 
 
     3. Run 
